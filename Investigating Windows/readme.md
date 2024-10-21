@@ -7,5 +7,3 @@ Tools Used:
     Event Viewer: To examine system, security, and application logs for signs of unusual activities.
     Task Scheduler: To identify any suspicious or unauthorized tasks that might have been scheduled by the attacker.
     Windows Firewall: To check for any firewall rule changes or network communications that could indicate malicious activity.
-
-In this write-up, I will document the steps I followed during the investigation, share the key findings, and discuss how I pieced together the clues to understand the attacker’s tactics, techniques, and procedures (TTPs). The aim is to provide insights into a real-world incident response process and how you can use similar tools to analyze a compromised system effectively.
