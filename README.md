@@ -4,4 +4,4 @@ Welcome to my repository of TryHackMe room write-ups. Here, you'll find detailed
 What’s Included:
 	
   Write-ups: Step-by-step solutions for various TryHackMe rooms.
-  Tools Used: PowerShell, Event Viewer, Task Scheduler, Windows Firewall, Splunk, Nmap, Hydra.
+  \nTools Used: PowerShell, Event Viewer, Task Scheduler, Windows Firewall, Splunk, Nmap, Hydra.
