@@ -7,3 +7,4 @@ Tools & Techniques used:
  	2. SIEM: Splunk
   	3. Offensive: Nmap
    	4. Networking: Wireshark, Firewall (Inbound rules)
+    	5. Forensics: Autopsy
