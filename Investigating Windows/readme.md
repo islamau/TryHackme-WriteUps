@@ -1,3 +1,5 @@
+# Investigating a Comporomised Windows Machine
+
 In this CTF challenge on TryHackMe, my objective was to investigate a Windows machine that had been compromised by an attacker. The task involved performing forensic analysis to uncover what actions the hacker may have taken, what methods were used for the compromise, and how the system was affected. This challenge simulated a real-world incident response scenario, requiring a methodical and multi-faceted approach to gather and analyze clues left behind by the intruder.
 
 The investigation was carried out using various Windows-native tools such as PowerShell, Event Viewer, Task Scheduler, and Windows Firewall. These tools allowed me to gather valuable data from different parts of the system, including the system logs, scheduled tasks, and firewall rules. By piecing together the information from these sources, I was able to track the activities of the attacker, analyze any suspicious behavior, and understand the potential impact of the attack on the system.
