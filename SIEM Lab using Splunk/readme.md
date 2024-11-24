@@ -1,3 +1,5 @@
+# Splunk as a SIEM
+
 In this project, I utilized Splunk to build a home-based Security Information and Event Management (SIEM) lab, where I conducted in-depth security monitoring, anomaly detection, and incident handling. The project was designed to simulate real-world SOC (Security Operations Center) activities and develop hands-on experience with Splunk's powerful capabilities in security operations.
 
 Key Activities:
