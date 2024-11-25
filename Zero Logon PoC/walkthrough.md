@@ -85,7 +85,7 @@ As mentioned in the question hint, the domain admin accounts start with a prefix
 ![image](https://github.com/user-attachments/assets/aea1c94e-0564-45fb-896d-17591731544c)
 
 
-In order to gain the root flag, we can use evil-winrm to gain command execution on the target machine. I ran into a few issues running evil-winrm on the provided VM by TryHackMe. I had to switch to my kali machine to execute the process of getting command injection. The tagrte machine needed to be restarted, thus, a different IP is displayed in the command line figure below:
+In order to gain the root flag, we can use evil-winrm to gain command execution on the target machine. I ran into a few issues running evil-winrm on the provided VM by TryHackMe. I had to switch to my kali machine to execute the process of getting command injection. The target machine needed to be restarted, thus, a different IP is displayed in command line in the figure below:
 
 ![image](https://github.com/user-attachments/assets/2446efee-b58e-4e42-bbf7-a0f964cf2d89)
 
