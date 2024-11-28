@@ -1,10 +1,7 @@
-# OpenVAS
+# Analyzing OpenVAS Scan Reports
 
-This repository contains my personal write-up on learning OpenVAS, an open-source vulnerability scanner, through TryHackMe. OpenVAS helps identify and assess security risks in systems and networks.
-Contents
+This write-up presents my analysis of solving the Practical Vulnerability Management task in TryHackMe's OpenVAS room, using a provided OpenVAS vulnerability scan report. The aim of this write-up is to showcase how to effectively integrate OpenVAS into a cybersecurity workflow to analyze vulnerabilities, identify potential attack vectors, and solve CTF challenges.
 
-    Introduction & Setup: Overview and Docker installation steps.
-    GVM Framework: Breakdown of core components.
-    Initial Scans & Config: Running and validating scans.
-    Reporting & Monitoring: Understanding reports and continuous monitoring.
-    Vulnerability Management: Analyzing reports in real-world scenarios.
+### Key Outcomes:
+1. Reporting & Monitoring: Gaining insights into interpreting reports and the importance of continuous monitoring for security posture management.
+2. Vulnerability Management: Applying OpenVAS scan results to real-world scenarios, emphasizing the role of structured analysis in identifying and addressing vulnerabilities.
