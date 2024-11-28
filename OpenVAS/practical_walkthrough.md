@@ -32,7 +32,7 @@ The highest severity vulnerability found within the target system is the eternal
     What is the first affected OS to this vulnerability?
 ![image](https://github.com/user-attachments/assets/9de03f68-a13b-45a0-9587-81418ec9379a)
 
-OpenVAS generated report details all of its findings, including the affected OS and its version breakdowns.
+The OpenVAS-generated report details all its findings, including the affected operating system and its version breakdowns.
 
 
     What is the recommended vulnerability detection method?
